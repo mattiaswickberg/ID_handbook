@@ -13,6 +13,6 @@
 * [Texter\_och\_ID](texter_och_id.md)
 * [Metodik](metodik/README.md)
   * [Agila\_metoder](metodik/agila_metoder.md)
-  * [Prototyper](metodik/prototyper/README.md)
-    * [Tester](metodik/prototyper/tester.md)
+  * [Prototyper](metodik/prototyper.md)
+  * [Tester](metodik/tester.md)
 
