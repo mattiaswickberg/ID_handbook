@@ -1,2 +1,0 @@
-# Agila\_metoder
-
