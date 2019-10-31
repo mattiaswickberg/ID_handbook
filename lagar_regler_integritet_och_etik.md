@@ -1,2 +1,2 @@
-# Lagar\_regler\_integritet\_och\_etik
+# Lagar, regler, integritet och etik
 
