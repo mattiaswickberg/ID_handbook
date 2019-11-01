@@ -8,13 +8,11 @@ Pierce menade att visuella teckens relation till det de betecknar kan delar in i
 
 
 
-![](.gitbook/assets/print.png)
+![Skrivare](.gitbook/assets/print.png)
 
-![](.gitbook/assets/restaurant.png)
+![Kniv och gaffel](.gitbook/assets/restaurant.png)
 
-![](.gitbook/assets/biohazard%20%281%29.png)
+![Symbol för biologisk fara](.gitbook/assets/biohazard%20%281%29.png | width=100)
 
 ## I praktiken
-
-\[symbol\]: [https://github.com/mattiaswickberg/ID\_handbook/blob/master/Bilder/Biohazard.png](https://github.com/mattiaswickberg/ID_handbook/blob/master/Bilder/Biohazard.png) "Biohazard"
 
