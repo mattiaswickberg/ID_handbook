@@ -10,7 +10,7 @@ Pierce menade att visuella teckens relation till det de betecknar kan delar in i
 
 <img src=".gitbook/assets/restaurant.png" style="float: left; margin:20px" width=100px alt="Kniv och gaffel"> En indexikal relation mellan tecken och betecknat är då tecknet pekar på, eller har en logisk relation till det betecknade. En kniv och en gaffel kan vi tolka som ett index då det används som tecken för restaurang. Det är inte kniven och gaffeln som är budskapet med bilden - om du åker förbi en skylt som denna på en väg ute i landet så ska du inte tänka "Åh, här kan jag köpa knivar och gafflar!" utan "Åh, här finns mat!" 
 
-<img src=".gitbook/assets/biohazard%20%281%29.png" style="float: left; margin:20px" width=100px alt="Symbol för biologisk fara"> En symbolisk relation mellan tecken och betecknat är som sagt den svagaste, där relationen helt och hållet bygger på en social överenskommelse. Språket i sig är i grunden symboliskt, då vi måste lära oss vad respektive ord står för i grunden - det går inte att gissa sig till utan att ha några ord att utgå ifrån. Symbolen för biologisk fara är likaså en symbol - du kan inte förstå vad den syftar till utan att lära dig detta. 
+<img src=".gitbook/assets/biohazard.png" style="float: left; margin:20px" width=100px alt="Symbol för biologisk fara"> En symbolisk relation mellan tecken och betecknat är som sagt den svagaste, där relationen helt och hållet bygger på en social överenskommelse. Språket i sig är i grunden symboliskt, då vi måste lära oss vad respektive ord står för i grunden - det går inte att gissa sig till utan att ha några ord att utgå ifrån. Symbolen för biologisk fara är likaså en symbol - du kan inte förstå vad den syftar till utan att lära dig detta. 
 
 ## I praktiken
 
