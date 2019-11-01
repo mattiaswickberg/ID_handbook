@@ -4,15 +4,16 @@ Semiotik är läran om teckens mening, och grundlades parallellt av Charles Sand
 
 ## Pierce kategorier
 
-Pierce menade att visuella teckens relation till det de betecknar kan delar in i tre olika kategorier: Ikon, Index och Symbol.
+Pierce menade att visuella teckens relation till det de betecknar kan delar in i tre olika kategorier: Ikon, Index och Symbol. Ikon är den närmaste relationen mellan tecken och betecknat, där tecknet är en direkt avbild. Index är den relation där det finns en logisk koppling - betydelsen går att lista ut trots att det inte är en direkt avbild. Symbol är den svagaste kopplingen, och måste läras. 
 
+<img src=".gitbook/assets/print.png" style="float: left; margin:20px" width=100px alt="Skrivare" > Ikon är alltså en direkt avbild - till exempel så används en bild på en skrivare i många gränssnitt för att signalera att här kan du skicka ditt dokument till skrivaren. Detta är en ikonisk relation då bilden du ser är det som menas med den. 
 
+<img src=".gitbook/assets/restaurant.png" style="float: left; margin:20px" width=100px alt="Kniv och gaffel"> En indexikal relation mellan tecken och betecknat är då tecknet pekar på, eller har en logisk relation till det betecknade. En kniv och en gaffel kan vi tolka som ett index då det används som tecken för restaurang. Det är inte kniven och gaffeln som är budskapet med bilden - om du åker förbi en skylt som denna på en väg ute i landet så ska du inte tänka "Åh, här kan jag köpa knivar och gafflar!" utan "Åh, här finns mat!" 
 
-<img src=".gitbook/assets/print.png" style="float: left" width=100px>
-
-![Kniv och gaffel](.gitbook/assets/restaurant.png)
-
-![Symbol för biologisk fara](.gitbook/assets/biohazard%20%281%29.png)
+<img src=".gitbook/assets/biohazard%20%281%29.png" style="float: left; margin:20px" width=100px alt="Symbol för biologisk fara"> En symbolisk relation mellan tecken och betecknat är som sagt den svagaste, där relationen helt och hållet bygger på en social överenskommelse. Språket i sig är i grunden symboliskt, då vi måste lära oss vad respektive ord står för i grunden - det går inte att gissa sig till utan att ha några ord att utgå ifrån. Symbolen för biologisk fara är likaså en symbol - du kan inte förstå vad den syftar till utan att lära dig detta. 
 
 ## I praktiken
 
+Vad betyder då detta i praktiken? Det kan framför allt ha betydelse när vi väljer bildspråk både vad gäller ikoner som signalerar funktionalitet (det är i dessa sammanhang lite olyckligt att vi har samma termer i vardagen som i semiotiken), och bilder som signalerar mer komplexa budskap. Som regel kan sägas att ju mer ikonisk relationen mellan en bild och det bilden signalerar, desto lättare är det för en användare att förstå. Symboler som är väl inarbetade fungerar väldigt bra, men man måste vara vaksam på att det kan finnas stora kulturella skillnader i tolkning av symboler och index (även till viss del ikoner!), och det är svårt att se utanför sin egen kulturella kontext och förutsäga dessa olikheter.
+
+Många tecken började som ikoner, men har blivit mer indexikala eller till och mer symboliska för att världen förändras. Ta till exempel tecknet för att spara ett dokument i de flesta program - det vanligaste tecknet är en bild på en floppy disk. I grunden var detta ett självklart, ikoniskt val - men nuförtiden används inte dessa disketter, och många (i alla fall som inte är väldigt tekniskt intresserade) har aldrig ens använt en diskett i verkliga livet. 
