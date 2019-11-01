@@ -33,6 +33,11 @@ Vad gäller bilder och konstverk så finns ingen allmänn citaträtt, dock får 
 ### Intenationellt
 I och med Bernkonventionen så gäller upphovsrätten även utanför landets gränser - men i och med att upphovsrätten ser lite olika ut i olika länder kan det vara svårt att orientera sig. I regel är det så att ursrungslandets lag gäller, så länge den inte underskrider det som står i Bernkonventionen. Exempelvis så gäller regeln om 70 år för ett svenskt verk även i ett land där upphovsrätten är 90 år. 
 
+## Creative Commons och Copyright
+
+Copyright har sitt ursprung i England, och är i grunden ett alternativt regelverk som använts i stället för Bernkonventionen i Amerika. I stället för att som i Bernkonventionen säga att upphovsrätt gäller per automatik, så gjorde detta alternativa regelverk gällande att upphovspersonen behövde markera sitt verk med copyrightsymbol eller "all rights reserved". Sedan Bernkonventionen blev standard for World Trade Organization 1989 så fyller dock copyrightsymbolen i teorin ingen funktion. I praktiken så kan den fortfarande anses ha ett signalvärde (genom att sätta copyrightsymbol så gör du det tydligt för andra att du inte vill släppa någon del av upphovsrätten), och kan därmed ha viss betydelse i juridiska tvister i USA, men troligtvis inte i Europa. 
+
+Creative Commons är ett initiativ för att främja öppet delande av kreativt material (bilder, texter, kod m.m), och är i praktiken ett sätt att enkelt signalera hur material får användas utan att varje enskild person som vill använda någonting ska behöva kontakta upphovspersonen och be om tillåtelse. Genom att sätta någon av de olika CC-licenserna på sitt verk kan upphovspersonen då säga hur hen tillåter verket att användas av andra. Den här läroboken ligger till exempel under en CC BY-SA-licens, vilket betyder att den som vill använda och modifiera detta verk måste ge mig som upphovsperson erkännande, och måste dela vidare sitt eget material under en liknande licens. 
 
 ## Dataskyddsförordningen, GDPR
 Syftet med dataskyddsförordningen är att skydda individen och värna om individens personliga integritet genom att skapa regler för behandling av personuppgifter. 
