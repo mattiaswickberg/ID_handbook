@@ -8,8 +8,7 @@ Pierce menade att visuella teckens relation till det de betecknar kan delar in i
 
 
 
-![Skrivare](.gitbook/assets/print.png)
-<img src=".gitbook/assets/print.png" width=100px>
+<img src=".gitbook/assets/print.png" style="float: left" width=100px>
 
 ![Kniv och gaffel](.gitbook/assets/restaurant.png)
 
