@@ -1,4 +1,4 @@
-# Lagar¨, regler, integritet och etik
+# Lagar, regler, integritet och etik
 
 ## Lagstiftning
 
