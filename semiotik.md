@@ -16,6 +16,6 @@ Pierce menade att visuella teckens relation till det de betecknar kan delar in i
 
 
 
-[ikon]: https://github.com/mattiaswickberg/ID_handbook/tree/master/Bilder/Print.png "Printer"
-[index]: https://github.com/mattiaswickberg/ID_handbook/tree/master/Bilder/Restaurant.png "Restaurant"
-[symbol]: https://github.com/mattiaswickberg/ID_handbook/tree/master/Bilder/Biohazard.png "Biohazard"
+[ikon]: https://github.com/mattiaswickberg/ID_handbook/blob/master/Bilder/Print.png "Printer"
+[index]: https://github.com/mattiaswickberg/ID_handbook/blob/master/Bilder/Restaurant.png "Restaurant"
+[symbol]: https://github.com/mattiaswickberg/ID_handbook/blob/master/Bilder/Biohazard.png "Biohazard"
