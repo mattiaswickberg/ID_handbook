@@ -12,7 +12,7 @@
 * [Typografi](typografi.md)
 * [Texter och ID](texter_och_id.md)
 * [Metodik](metodik/README.md)
-  * [Agila metoder](metodik/agila_metoder.md)
+  * [Agila metoder](metodik/agila-metoder.md)
   * [Prototyper](metodik/prototyper.md)
   * [Tester](metodik/tester.md)
 
