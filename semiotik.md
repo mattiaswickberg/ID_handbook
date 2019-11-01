@@ -9,13 +9,13 @@ Pierce menade att visuella teckens relation till det de betecknar kan delar in i
 
 ![Kniv och gaffel][index]
 
-![Symbolen för biologisk fara][Biohazard.png]
+![Symbolen för biologisk fara][symbol]
 
 ## I praktiken
 
 
 
 
-[ikon]: https://github.com/mattiaswickberg/ID_handbook/tree/master/Bilder/Print.png
-[index]: https://github.com/mattiaswickberg/ID_handbook/tree/master/Bilder/Restaurant.png
-[symbol]: https://github.com/mattiaswickberg/ID_handbook/tree/master/Bilder/Biohazard.png
+[ikon]: https://github.com/mattiaswickberg/ID_handbook/tree/master/Bilder/Print.png "Printer"
+[index]: https://github.com/mattiaswickberg/ID_handbook/tree/master/Bilder/Restaurant.png "Restaurant"
+[symbol]: https://github.com/mattiaswickberg/ID_handbook/tree/master/Bilder/Biohazard.png "Biohazard"
