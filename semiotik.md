@@ -12,7 +12,7 @@ Pierce menade att visuella teckens relation till det de betecknar kan delar in i
 
 ![Kniv och gaffel](.gitbook/assets/restaurant.png)
 
-![Symbol för biologisk fara](.gitbook/assets/biohazard%20%281%29.png | width=100)
+![Symbol för biologisk fara](.gitbook/assets/biohazard%20%281%29.png)
 
 ## I praktiken
 
