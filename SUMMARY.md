@@ -8,7 +8,7 @@
 * [Designprinciper](designprinciper.md)
 * [Tillgänglighet](tillgaenglighet.md)
 * [Färglära](faerglaera.md)
-* [Grafik](grafik.md)
+* [Grafisk design](grafisk_design.md)
 * [Typografi](typografi.md)
 * [Texter och ID](texter_och_id.md)
 * [Metodik](metodik/README.md)
