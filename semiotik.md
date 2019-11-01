@@ -26,6 +26,9 @@ Många tecken började som ikoner, men har blivit mer indexikala eller till och 
 
 ## Läs mer
 
+Harnessing the Power of Semiotics in UX Design: https://blogs.adobe.com/creativecloud/harnessing-the-power-of-semiotics-in-ux-design/
+
+Explaining semiotics - Infographic: https://www.behance.net/gallery/9474813/Explaining-Semiotics-Infographic
 
 ## Källor
 Ferdinand de Saussure. (2017, October 12). In Wikipedia, The Free Encyclopedia. Retrieved 09:52, November 7, 2017, from https://en.wikipedia.org/w/index.php?title=Ferdinand_de_Saussure&oldid=805001950
