@@ -20,11 +20,15 @@ Programvaror för att arbeta med vektorgrafik: Adobe Illustrator, Inkscape
 
 ## Färglära
 
-RGB, CMYK
+När vi skapar färg så finns det två huvudskliga metoder för att kominera det vi kallar för primärfärger till de många olika nyanser som vi vill ha. Dessa två förkortas RGB och CMYK, men kan också benämnas som den additiva modellen och den subtraktiva modellen. 
 
+### Additiv färgmodell
+I den additiva färgmodellen utgår ifrån avsaknaden av ljus, dvs svart, och tillför olika mängder av färger. Den vanligaste modellen är att man använder röd, grön och blå som primärfärger (RGB), då man utifrån dessa kan skapa en stor del av de färger som det mänskliga ögat kan uppfatta. Om de tre blandas med perfekt likhet så får man vitt eller grått beronde på ljusstyrka. Om vi blandar grön och röd i lika delar så får vi färgen gul, som är komplementfärg till färgen blå. På samma sätt kan vi få komplementfärgerna till röd och grön, som är cyan och magenta. 
 
-Primärfärg, Sekundärfärg
-Komplementfärg
+Den additiva modellen är den som används i skärmar, där utgångläget är svart. Värt att veta är dock att då olika tillverkare använder olika teknik, material och tillverkning, så kan samma RGB-värde se olika ut på olika skärmar.
+
+### Subtraktiv färgmodell
+I den subtraktiva färgmodellen utgår man i stället från att det finns en ljuskälla i form av exempelvis solsken eller lampor, och det vanligaste är då att man jobbar utifrån vitt som utgångsläge - till exempel vitt papper. Den vanligaste modellen för detta att man använder cyan, magenta och gul som primärfärger, samt svart för att kunna skapa mörkare nyanser av färger. Svart kallas också för nyckelfärg, vilket då ger oss förkortningen CMYK. Genom att använda dessa färger minskar vi mängden ljus av vissa frekvenser som skulle ha reflekterats från det vita pappret (vitt minus blått är gult) - därav benämningen subtraktiv. Blandas de tre färgerna i lika delar så får vi svart - eller snarare mörkt grå. 
 
 ### Färghjulet
 
