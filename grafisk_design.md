@@ -31,9 +31,11 @@ Den additiva modellen är den som används i skärmar, där utgångläget är sv
 I den subtraktiva färgmodellen utgår man i stället från att det finns en ljuskälla i form av exempelvis solsken eller lampor, och det vanligaste är då att man jobbar utifrån vitt som utgångsläge - till exempel vitt papper. Den vanligaste modellen för detta att man använder cyan, magenta och gul som primärfärger, samt svart för att kunna skapa mörkare nyanser av färger. Svart kallas också för nyckelfärg, vilket då ger oss förkortningen CMYK. Genom att använda dessa färger minskar vi mängden ljus av vissa frekvenser som skulle ha reflekterats från det vita pappret (vitt minus blått är gult) - därav benämningen subtraktiv. Blandas de tre färgerna i lika delar så får vi svart - eller snarare mörkt grå. 
 
 ### Färghjulet
+Färghjulet är ett sätt att organisera en färgskala som har en del praktiska användningar när du väljer färger för ett projekt. Om du ska ha två färger till din sida (förutom vitt och svart, de utgår vi ifrån att de behövs), så välj gärna färger som är rakt motsatta varandra. Ska du ha tre färger? Då kan du gärna ta tre färger i rad - det bör vara lika långt avstånd mellan mittenfärger och respektive annan färg, då det blir en tilltalande symmetri i det. 
 
-Estetiskt tilltalande färgkombinationer
+För att skapa en estetiskt tilltalande design så bör färgerna väljas symmetriskt, men sedan användas i olika proportion. Med tre färger så är fördelningen 60% för huvudfärg, 30% för sekundär färg och 10% för accentfärg en bra fördelning. 
 
+Viktigt är att inte använda färgerna till exempel genom att sätta text i en färg på en bakgrund i textens komplementfärg! Detta är obekvämt för ögat. Det finns också en rad färgkombinationer som är dåliga för färgblinda, och eftersom färgblindhet finns hos cirka 10% av män och 1% av kvinnor så är det en stor grupp individer som man kan göra livet svårt för. Det absolut vanligaste typen av färgblindhet är röd-grön, vilket gör at man ska vara extra försiktig med dessa färger i kombination. 
 
 ### Färgers psykologi
 
